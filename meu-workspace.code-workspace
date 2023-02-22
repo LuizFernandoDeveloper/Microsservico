@@ -1,0 +1,17 @@
+{
+    "folders": [
+        {
+            "name": "discoveri-eureca-service",
+            "path": "discoveri-eureca-service",
+        }, 
+        {
+            "name": "gateway",
+            "path": "gateway"
+        }
+    ],
+    "settings": {
+        "java.configuration.updateBuildConfiguration": "interactive",
+        "java.compile.nullAnalysis.mode":"interactive"
+        
+    }
+}
